@@ -1,17 +1,17 @@
 # Data-structures
 
--- Stack
+## Stack
 
--- Queue
+## Queue
 
--- linked list
+## linked list
 
--- linked round list
+## linked round list
 
--- linked double list
+## linked double list
 
--- linked double round list
+## linked double round list
 
--- Binary tree
+## Binary tree
 
--- Binary linked tree
+## Binary linked tree
